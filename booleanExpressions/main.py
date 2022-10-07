@@ -15,3 +15,19 @@ print(3**2 + 4**2 == 25)
 # d) A soma de 2, 4 e 6 é maior do que 12
 
 print(2 + 4 + 6 > 12)
+
+# ----------------------------
+
+# Escreva as seguintes expressões boleanas em linguagem Python:
+
+# a) 1387 é divisível por 19
+
+print(1387 % 19 == 0)
+
+# b) 31 é par
+
+print(31 % 2 == 0)
+
+# c) O menor valor entre: 34, 29 e 31 é menor do que 30
+
+print(34 < 30 or 29 < 30 or 31 < 30)
