@@ -1,3 +1,5 @@
+import math
+
 # Suponha que você é um colecionar de jogos de videogame. Escreva um algoritmo que
 # permita cadastrar esses jogos informando o nome e a qual videogame ele pertence
 
@@ -74,3 +76,5 @@ while True:
     elif op == 3:
         print('Encerrando o programa...')
         break
+
+print(math.sqrt(9))
